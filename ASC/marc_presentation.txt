@@ -1,0 +1,11 @@
+1. predict product success by estimating product demand 
+    - can't use a test market
+    - stated opinions are unreliable- instead, have people show instead of state preferences
+
+2. products are defined by attributes, each with a number of levels
+    - ex: headphones: brand, price, eartip, etc
+
+3. preference estimates are used to make counterfactual predicitions in a simulated market
+
+4. discrete choice: you can only choose one product
+
